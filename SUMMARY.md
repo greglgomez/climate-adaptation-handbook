@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Where do I Start?](README.md)
+* [Welcome to the Climate Adaptation Handbook](README.md)
+* [Where do I start?](where-do-i-start.md)
 * [Future Sections](future-sections-and-contributing.md)
 * [Contribute](contribute.md)
 
