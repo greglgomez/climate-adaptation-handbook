@@ -8,3 +8,11 @@ There are a few resources out there if you'd like a change of career into someth
 
 {% embed url="https://onpurpose.org/en/" %}
 
+{% embed url="https://80000hours.org/job-board/" %}
+
+{% embed url="https://www.ffwd.org/tech-nonprofit-jobs/" %}
+
+{% embed url="https://www.idealist.org/en/jobs?q=&searchMode=true" %}
+
+{% embed url="https://unjobs.org/themes/climate-change" %}
+
